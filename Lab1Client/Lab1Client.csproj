@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Lab1Technical">
+      <HintPath>..\..\Lab1Server\Lab1Server\Lab1Technical.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
